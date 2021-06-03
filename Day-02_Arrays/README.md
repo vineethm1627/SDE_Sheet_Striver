@@ -6,3 +6,4 @@ SNo | Name | Logic Used | Link |
 2 | Rotate Matrix Clockwise | transpose, reverse each row | [view](rotate_matrix.cpp)
 3 | Next Permutation | swap, reverse | [view](next_permutation.cpp)
 4 | Set Matrix Zeros | in place, bottom to top, right to left | [view](set_matrix_zeros.cpp)
+5 | Merge Sort | divide and conquer, recursion | [view](merge_sort.cpp)
