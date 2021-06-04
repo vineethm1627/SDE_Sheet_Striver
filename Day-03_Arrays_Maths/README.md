@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Power(x, n) | binary exponentiation | [view](binary_expo.cpp)
 4 | Majority Element > floor(n/2) | Moore Voting Algo | [view](majority_element_N2.cpp)
 5 | Majority Element > floor(n/3) | Moore Voting Algo 2 variables | [view](majority_element_N3.cpp)
+6 | Reverse Pairs | count inversions using merge sort | [view](reverse_pairs.cpp)
