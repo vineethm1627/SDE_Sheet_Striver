@@ -9,7 +9,7 @@ int maxLen(int arr[], int n) {
 
     for(int i = 0; i < n; i++) {
         cur_sum += arr[i];
-        if(cur_sum = 0) {
+        if(cur_sum == 0) {
             max_len = i + 1;
             continue;
         }
