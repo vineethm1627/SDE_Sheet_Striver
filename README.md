@@ -13,3 +13,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 3 | [Merge Sorted Space in O(1) Space](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-01_Arrays/merge_sorted_arrays.cpp) | Gap Method: Shear Sort | Sorting | 02 June 21 |
 4 | [Set Matrix Zeros](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-02_Arrays/set_matrix_zeros.cpp) | in place, bottom to top, right to left | Matrix | 03 June 21 |
 5 | [Reverse Pairs Count](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-03_Arrays_Maths/reverse_pairs.cpp) | count inversions using merge sort | Arrays | 04 June 21 |
+6 | [Reverse in Groups of K](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-06_LinkedList/reverse_groups_k.cpp) | addFirst, original and temp pointers | Linked List | 06 June 21 |
