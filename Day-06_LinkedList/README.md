@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Check Palindrome | reverse from middle and check | [view](palindrome_list.cpp)
 4 | Intersection in Y shaped List | cross traversal | [view](intersection_Y.cpp)
 5 | Reverse in groups of K | addFirst, original, temp pointers | [view](reverse_groups_k.cpp)
+6 | Flattening of List | merge 2 sorted lists, recursion | [view](flattening_list.cpp)
