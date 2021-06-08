@@ -16,3 +16,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 6 | [Reverse in Groups of K](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-06_LinkedList/reverse_groups_k.cpp) | addFirst, original and temp pointers | Linked List | 06 June 21 |
 7 | [Clone list with random pointers](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-07_Two_Pointers/clone_list.cpp) | adjacent copy nodes | Linked List | 07 June 21 |
 8 | [Trapping Rainwater](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-07_Two_Pointers/trapping_rainwater.cpp) | 2 pointers, min(max_left, max_right) - arr[i] | Two Pointers | 07 June 21 | 
+9 | [Job Sequencing](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-08_Greedy/job_sequencing.cpp) | n-slots, job index in sorted array | Greedy | 08 June 21 |
