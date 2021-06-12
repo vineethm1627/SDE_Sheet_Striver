@@ -18,3 +18,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 8 | [Trapping Rainwater](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-07_Two_Pointers/trapping_rainwater.cpp) | 2 pointers, min(max_left, max_right) - arr[i] | Two Pointers | 07 June 21 | 
 9 | [Job Sequencing](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-08_Greedy/job_sequencing.cpp) | n-slots, job index in sorted array | Greedy | 08 June 21 |
 10 | [Minimum Railways Platforms](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-08_Greedy/min_platforms_railway.cpp) | sorted: arrival vs dep times | Greedy | 08 June 21 |
+11 | [Combination Sum without repetition](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-09_Recursion/combination_sum_without_rep.cpp) | recursion with 2 options; avoid duplicates | Bactracking | 12 June 21 |
