@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Combination sum with repetition | recursion with 2 options | [view](combination_sum.cpp)
 4 | Combination sum without repetition | recursion with 2 options; avoid duplicates | [view](combination_sum_without_rep.cpp)
 5 | Palindromic Partitions | Backtracking: left part-palindrome | [view](palindrome_partitioning.cpp)
+6 | Kth Permutation sequence | fix one number; find interval | [view](kth_permutation.cpp)
