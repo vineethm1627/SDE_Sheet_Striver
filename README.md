@@ -20,3 +20,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 10 | [Minimum Railways Platforms](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-08_Greedy/min_platforms_railway.cpp) | sorted: arrival vs dep times | Greedy | 08 June 21 |
 11 | [Combination Sum without repetition](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-09_Recursion/combination_sum_without_rep.cpp) | recursion with 2 options; avoid duplicates | Bactracking | 12 June 21 |
 12 | [Permutations of an Array](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/print_permutations.cpp) | fixing first position, all swaps | Bactracking | 13 June 21 |
+13 | [Rat in a Maze](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/rat_maze.cpp) | backtracking, dfs calls in 4 directions | Bactracking | 14 June 21 |
