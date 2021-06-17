@@ -22,3 +22,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 12 | [Permutations of an Array](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/print_permutations.cpp) | fixing first position, all swaps | Backtracking | 13 June 21 |
 13 | [Rat in a Maze](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/rat_maze.cpp) | backtracking, dfs calls in 4 directions | Backtracking | 14 June 21 |
 14 | [M Coloring Graph](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/M_coloring.cpp) | backtracking, trying every color | Bactracking | 17 June 21 |
+15 | [Median of 2 Sorted Arrays](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-11_Binary_Search/median_2_sortedArrays.cpp) | Contribution size partitioning of smaller array | Binary Search | 17 June 21 |
