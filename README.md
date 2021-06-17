@@ -21,3 +21,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 11 | [Combination Sum without repetition](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-09_Recursion/combination_sum_without_rep.cpp) | recursion with 2 options; avoid duplicates | Bactracking | 12 June 21 |
 12 | [Permutations of an Array](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/print_permutations.cpp) | fixing first position, all swaps | Backtracking | 13 June 21 |
 13 | [Rat in a Maze](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/rat_maze.cpp) | backtracking, dfs calls in 4 directions | Backtracking | 14 June 21 |
+14 | [M Coloring Graph](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/M_coloring.cpp) | backtracking, trying every color | Bactracking | 17 June 21 |
