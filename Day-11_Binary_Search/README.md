@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Allocate min pages | monotonic search space of min possible max upper bound | [view](allocate_min_pages.cpp)
 4 | Aggressive Cows | monotonic search space of min separation | [view](aggressive_cows.cpp)
 5 | Search Rotated | 2 parts Binary Search | [view](search_rotated.cpp)
+6 | Single Element | odd, even index; left part shrinkage | [view](single_element.cpp)
