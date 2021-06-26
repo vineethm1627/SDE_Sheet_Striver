@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Search Rotated | 2 parts Binary Search | [view](search_rotated.cpp)
 6 | Single Element | odd, even index; left part shrinkage | [view](single_element.cpp)
 7 | Median in Row sorted matrix | count of left part of sorted array; upper_bound | [view](median_row_sorted.cpp)
+8 | Nth Root | epsilon difference estimation | [view](nth_root.cpp)
