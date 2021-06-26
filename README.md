@@ -26,3 +26,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 16 | [Allocate min pages](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-11_Binary_Search/allocate_min_pages.cpp) | monotonic search space of min possible max upper bound | Binary Search | 25 June 21 |
 17 | [Median in Row sorted matrix](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-11_Binary_Search/median_row_sorted.cpp) | count of left part of sorted array; upper_bound | Binary Search | 26 June 21 |
 18 | [Count Total Set Bits](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/count_total_set_bits.cpp) | f(n)=x*2^(x-1)+(n-2^x+1)+f(n-2^x) | Recursion | 26 June 21 |
+19 | [Find nearest power of 2 <= n](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/find_MSB.cpp) | one by one set all the bits | Bit Manipulation | 26 June 21 |
