@@ -24,3 +24,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 14 | [M Coloring Graph](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-10_Backtracking/M_coloring.cpp) | backtracking, trying every color | Bactracking | 17 June 21 |
 15 | [Median of 2 Sorted Arrays](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-11_Binary_Search/median_2_sortedArrays.cpp) | Contribution size partitioning of smaller array | Binary Search | 17 June 21 |
 16 | [Allocate min pages](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-11_Binary_Search/allocate_min_pages.cpp) | monotonic search space of min possible max upper bound | Binary Search | 25 June 21 |
+17 | [Median in Row sorted matrix](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-11_Binary_Search/median_row_sorted.cpp) | count of left part of sorted array; upper_bound | Binary Search | 26 June 21 |
