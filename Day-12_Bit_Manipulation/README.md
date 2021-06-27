@@ -10,3 +10,4 @@ SNo | Name | Logic Used | Link |
 6 | Power Set-1 | vector, char included/excluded | [view](power_set_vector.cpp)
 7 | Power Set-2 | recursion, char included/excluded | [view](power_set_recursion.cpp)
 8 | Power Set-3 (Generate all subsequences) | Bit manipulation | [view](power_set_bit.cpp)
+9 | Sqaure using Bit | Left shift + recursion | [view](square_bit.cpp)
