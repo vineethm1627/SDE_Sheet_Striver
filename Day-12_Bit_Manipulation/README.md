@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Division of 2 numbers | subtract highest multiple; leftshift | [view](divide_numbers.cpp)
 6 | Power Set-1 | vector, char included/excluded | [view](power_set_vector.cpp)
 7 | Power Set-2 | recursion, char included/excluded | [view](power_set_recursion.cpp)
+8 | Power Set-3 (Generate all subsequences) | Bit manipulation | [view](power_set_bit.cpp)
