@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | Implement stack using arrays | fixed sized array with top pointer | [view](stack_array.cpp) 
 5 | Implement queue using arrays | fixed sized array with front and rear pointers | [view](queue_array.cpp)
 6 | Implement stack using 1 queue | size-1 times push front and pop | [view](stack_using_queue.cpp)
+7 | Implement queue using 2 stacks | input, output stack; all operations from output stack | [view](queue_using_stack.cpp)
