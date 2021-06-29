@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Balanced Parenthesis | stack of closing brackets; switch case | [view](balanced_parenthesis.cpp)
 4 | Implement stack using arrays | fixed sized array with top pointer | [view](stack_array.cpp) 
 5 | Implement queue using arrays | fixed sized array with front and rear pointers | [view](queue_array.cpp)
+6 | Implement stack using 1 queue | size-1 times push front and pop | [view](stack_using_queue.cpp)
