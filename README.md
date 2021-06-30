@@ -28,3 +28,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 18 | [Count Total Set Bits](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/count_total_set_bits.cpp) | f(n)=x*2^(x-1)+(n-2^x+1)+f(n-2^x) | Recursion | 26 June 21 |
 19 | [Find nearest power of 2 <= n](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/find_MSB.cpp) | one by one set all the bits | Bit Manipulation | 26 June 21 |
 20 | [Square of a number](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/square_bit.cpp) | Left shift + recursion | Bit Manipulation | 27 June 21 |
+21 | [LRU Cache Design](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/LRU_cache.cpp) | Hashing + DLL {latest used on left near head} | Linked List | 30 June 21 |
