@@ -30,5 +30,5 @@ S.No. | Question Name | Logic Used | Topic | Date |
 20 | [Square of a number](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-12_Bit_Manipulation/square_bit.cpp) | Left shift + recursion | Bit Manipulation | 27 June 21 |
 21 | [LRU Cache Design](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/LRU_cache.cpp) | Hashing + DLL {latest used on left near head} | Linked List | 30 June 21 |
 22 | [Sliding Window Maximum](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/sliding_window_max.cpp) | Deque + store max at dq front | Deque + Sliding Window | 01 July 21 |
-23 | [Largest rectangle in Histogram](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/largest_rectangle_histogram_2.cpp) | 3 vars: i-->nse, top = height, below top = pse | [view](largest_rectangle_histogram_2.cpp)
+23 | [Largest rectangle in Histogram](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/largest_rectangle_histogram_2.cpp) | 3 vars: i-->nse, top = height, below top = pse | Stacks | 01 July 21 |
 24 | [Longest Palindromic Substring](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/longest_palindromic_substring.cpp) | Two pointer consecutive + 1 gap apart expansion | Strings | 01 July 21 |
