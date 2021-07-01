@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Get Min at Pop | 2 stacks | [view](get_min_pop.cpp) 
 6 | Sliding Window Maximum | Deque + sliding window | [view](sliding_window_max.cpp)
 7 | Largest rectangle in Histogram | PSE + NSE to compute spanning width | [view](largest_rectangle_histogram_1.cpp)
+8 | Largest rectangle in Histogram Efficient | 3 vars: i-->nse, top = height, below top = pse | [view](largest_rectangle_histogram_2.cpp)
