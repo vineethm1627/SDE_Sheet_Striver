@@ -32,3 +32,4 @@ S.No. | Question Name | Logic Used | Topic | Date |
 22 | [Sliding Window Maximum](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/sliding_window_max.cpp) | Deque + store max at dq front | Deque + Sliding Window | 01 July 21 |
 23 | [Largest rectangle in Histogram](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-14_Stacks/largest_rectangle_histogram_2.cpp) | 3 vars: i-->nse, top = height, below top = pse | Stacks | 01 July 21 |
 24 | [Longest Palindromic Substring](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/longest_palindromic_substring.cpp) | Two pointer consecutive + 1 gap apart expansion | Strings | 01 July 21 |
+25 | [Integer to Roman](https://github.com/vineethm1627/SDE_Sheet_Striver/blob/main/Day-15_Strings/integer_to_roman.cpp) | Store the exception symbols like 1, 4, 5, 9, etc | Maths | 01 July 21 |
