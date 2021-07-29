@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | Left View | leftmost node of each level | [view](left_view.cpp)
 5 | Right View | rightmost node of each level | [view](right_view.cpp)
 6 | Top View | first enc node at each horizontal distance | [view](top_view.cpp)
+7 | Bottom View | last enc node at each horizontal distance | [view](bottom_view.cpp)
