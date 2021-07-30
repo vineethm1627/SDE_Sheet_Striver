@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Height of Tree | recursion, find max depth | [view](height_tree.cpp)
 4 | Diameter of Tree | height, dia recursion with 3 cases | [view](diameter.cpp)
 5 | Height balanced check | recursion, {height, bool} | [view](height_balanced.cpp)
+6 | Identical Trees | simple step by step recursion | [view](identical_trees.cpp)
