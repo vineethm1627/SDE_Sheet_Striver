@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | Diameter of Tree | height, dia recursion with 3 cases | [view](diameter.cpp)
 5 | Height balanced check | recursion, {height, bool} | [view](height_balanced.cpp)
 6 | Identical Trees | simple step by step recursion | [view](identical_trees.cpp)
+7 | LCA of 2 nodes | postorder recursion | [view](LCA.cpp)
