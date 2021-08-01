@@ -7,3 +7,4 @@ SNo | Name | Logic Used | Link |
 3 | Check Mirror n-ary Tree | stack & queue | [view](mirror_n_ary.cpp)
 4 | Flatten Tree into Linked List | Morris Traversal | [view](flatten_tree_list.cpp)
 5 | Tree from inorder and preorder | div and conq type | [view](tree_in_preorder.cpp)
+6 | Tree from inorder and postorder | div and conq type | [view](tree_in_postorder.cpp)
