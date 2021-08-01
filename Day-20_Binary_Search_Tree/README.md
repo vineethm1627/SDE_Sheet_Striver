@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Construct BST from sorted array | div and conq type | [view](bst_array.cpp)
 6 | LCA in BST | check the side of data points | [view](LCA_BST.cpp) 
 7 | Inorder Successor | recursion | [view](inorder_successor.cpp)
+8 | Inorder Predecessor and Successor | Recursion | [view](inorder_pre_suc.cpp)
