@@ -8,3 +8,4 @@ SNo | Name | Logic Used | Link |
 4 | Cycle detection in undirected graph | DFS, parent node | [view](cycle_undirected_dfs.cpp)
 5 | Cycle detection in directed graph | DFS, stack_path for back-edge | [view](cycle_directed.cpp)
 6 | Cycle detection in directed graph | BFS, Kahn's algo for topo sort | [view](cycle_directed_bfs.cpp)
+7 | Topological Sort | Kahn's algo | [view](topo_sort.cpp)
