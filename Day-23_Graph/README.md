@@ -9,3 +9,4 @@ SNo | Name | Logic Used | Link |
 5 | Cycle detection in directed graph | DFS, stack_path for back-edge | [view](cycle_directed.cpp)
 6 | Cycle detection in directed graph | BFS, Kahn's algo for topo sort | [view](cycle_directed_bfs.cpp)
 7 | Topological Sort | Kahn's algo | [view](topo_sort.cpp)
+8 | Number of islands | DFS in 4 directions | [view](number_islands.cpp)
