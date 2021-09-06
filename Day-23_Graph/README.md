@@ -11,3 +11,4 @@ SNo | Name | Logic Used | Link |
 7 | Topological Sort | Kahn's algo | [view](topo_sort.cpp)
 8 | Number of islands | DFS in 4 directions | [view](number_islands.cpp)
 9 | Check Bipartite graph | BFS, adjacent 2 colors | [view](bipartite_bfs.cpp)
+10 | Check Bipartite graph | DFS, adjacent 2 colors | [view](bipartite_dfs.cpp)
