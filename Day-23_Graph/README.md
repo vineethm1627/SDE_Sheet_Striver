@@ -12,3 +12,4 @@ SNo | Name | Logic Used | Link |
 8 | Number of islands | DFS in 4 directions | [view](number_islands.cpp)
 9 | Check Bipartite graph | BFS, adjacent 2 colors | [view](bipartite_bfs.cpp)
 10 | Check Bipartite graph | DFS, adjacent 2 colors | [view](bipartite_dfs.cpp)
+11 | Clone a undirected graph | DFS, vector<node*> created | [view](clone_undirected.cpp)
