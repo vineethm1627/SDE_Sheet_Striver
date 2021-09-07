@@ -13,3 +13,4 @@ SNo | Name | Logic Used | Link |
 9 | Check Bipartite graph | BFS, adjacent 2 colors | [view](bipartite_bfs.cpp)
 10 | Check Bipartite graph | DFS, adjacent 2 colors | [view](bipartite_dfs.cpp)
 11 | Clone a undirected graph | DFS, vector<node*> created | [view](clone_undirected.cpp)
+12 | Topological Sort | DFS, push the node when rec call is over | [view](topo_sort_dfs.cpp)
